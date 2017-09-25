@@ -3,7 +3,7 @@
 #auhor : mld
 #email : miradel51@126.com
 #date : 2017/09/21
-#time : 20:43
+
 
 import sys
 import string
