@@ -1,0 +1,1 @@
+finally I can upload file from windows to github, then I am on the way to try upload folder next.
