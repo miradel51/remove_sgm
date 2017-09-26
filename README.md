@@ -1,4 +1,4 @@
-# remove_sgm
+# Remove_sgm
 This simple script helps you remove the &lt;sgm> format from your original parallel corpus.
 
 Frequently, the open source resources which can be available from the WMT official website with <sgm> format, you need to remove these special tokens from the original corpus, then generate purely parallel corpus for training set, development set and test set.
